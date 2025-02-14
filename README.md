@@ -31,7 +31,7 @@ pip install transcribr
 ```python
 from transcribr import Transcribr
 
-video_file = "example.mp3"  # Replace with your video file path
+video_file = "example.mp4"  # Replace with your video file path
 
 # transcribe content
 transcribr = Transcribr(model="base")
