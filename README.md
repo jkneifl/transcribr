@@ -7,15 +7,15 @@ It supports multiple languages, offering fast and reliable speech recognition fo
 Built on state-of-the-art speech recognition models (OpenAI whisper), transcribr simplifies the process of turning spoken words into structured, searchable text.
 
 ## Key Features:
-	•	Supports video (.mp4, .mov, etc.) and audio (.mp3, .wav, etc.) inputs
-	•	Generates subtitle files (.srt) with precise timestamps
-	•	Multilingual transcription capabilities
-	•	Easy integration into Python workflows
+* Supports video (.mp4, .mov, etc.) and audio (.mp3, .wav, etc.) inputs
+* Generates subtitle files (.srt) with precise timestamps
+* Multilingual transcription capabilities
+* Easy integration into Python workflows
 
 ## Use Cases:
-	•	Automatic subtitle generation for videos
-	•	Transcription of podcasts and interviews
-	•	Creating searchable transcripts for lectures and meetings
+* Automatic subtitle generation for videos
+* Transcription of podcasts and interviews
+* Creating searchable transcripts for lectures and meetings
 
 ## Get Started:
 Install the package and generate your first transcription in minutes with just a few lines of code!
