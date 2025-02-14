@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "transcribr"
-version = "0.1"
+version = "0.1.1"
 authors = [
   { name="Jonas Kneifl", email="jonas.kneifl@itm.uni-stuttgart.com" },
 ]
